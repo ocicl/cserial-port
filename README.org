@@ -1,0 +1,10 @@
+* cserial-port
+
+serial-port accessing library for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/snmsts/cserial-port.git   |
+| commit  | dac2a1c  |
+| systems | cserial-port |
+|---------+-------------------------------------------|
+
